@@ -11,5 +11,9 @@ public class UserManagement extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_management);
 
+
+    }
+    public void Mapping(){
+
     }
 }
